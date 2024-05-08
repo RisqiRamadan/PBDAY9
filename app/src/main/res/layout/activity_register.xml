@@ -47,7 +47,7 @@
             android:hint="Name" >
             <com.google.android.material.textfield.TextInputEditText
                 android:layout_width="match_parent"
-                android:drawableStart="@drawable/icon_account"
+                android:drawableStart="@drawable/icon_name"
                 android:layout_height="wrap_content"
                 android:textSize="20dp"
                 android:text=" "

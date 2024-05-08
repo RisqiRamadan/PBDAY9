@@ -59,6 +59,7 @@
             android:layout_height="25dp"/>
 
         <Button
+            android:id="@+id/btnlogin"
             android:textSize="20dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
